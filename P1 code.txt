@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="VOLT EV - electric vehicles, battery technology, charging information and specifications.">
+  <title>VOLT EV | Electric Vehicles and Charging Technology</title>
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <header id="top">
+    <h1>VOLT EV</h1>
+    <p><em>Drive the Future - sustainable mobility for everyone.</em></p>
+
+    <!-- NAV -->
+    <nav>
+      <ul>
+        <li><a href="#top">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#vehicles">Vehicles</a></li>
+        <li><a href="#battery">Battery Technology</a></li>
+        <li><a href="#charging">Charging</a></li>
+        <li><a href="#specifications">Specifications</a></li>
+        <li><a href="#media">Multimedia</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <hr>
+
+  <main>
+
+    <!-- ABOUT -->
+    <section id="about">
+      <h2>About VOLT EV</h2>
+      <p>
+        VOLT EV is a fictional electric vehicle company that designs and builds
+        zero-emission cars. Our aim is to make clean, quiet and powerful
+        transportation available to everyone.
+      </p>
+      <p>
+        This page introduces our vehicle models, battery technology, charging
+        options and technical specifications.
+      </p>
+
+      <h3>What we stand for</h3>
+      <ul>
+        <li><strong>Mission:</strong> Accelerate the move to clean energy with vehicles people love to drive.</li>
+        <li><strong>Vision:</strong> A future where every journey is emission-free.</li>
+        <li><strong>Innovation:</strong> In-house battery, motor and software engineering.</li>
+        <li><strong>Sustainability:</strong> Recycled materials and a battery take-back programme.</li>
+      </ul>
+    </section>
+
+    <hr>
+
+    <!-- VEHICLES -->
+    <section id="vehicles">
+      <h2>Our Electric Vehicles</h2>
+      <p>Choose from three models designed for different journeys.</p>
+
+      <article>
+        <h3>VOLT X1 - Electric SUV</h3>
+        <img alt="Side view of the VOLT X1 electric SUV" width="400" height="200"
+             src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'><rect width='400' height='200' fill='%230a1224'/><path d='M22 128L34 94Q46 72 92 66L150 50Q205 40 262 50L322 66Q366 76 376 114L380 134Q380 142 370 142H30Q20 142 22 128Z' fill='%232b3a5c' stroke='%2339ff14' stroke-width='2'/><path d='M96 72L150 56Q205 48 255 56L312 72L322 98H88Z' fill='%237fffd4' fill-opacity='.45'/><circle cx='105' cy='142' r='29' fill='%2305070d'/><circle cx='105' cy='142' r='15' fill='%2339ff14'/><circle cx='300' cy='142' r='29' fill='%2305070d'/><circle cx='300' cy='142' r='15' fill='%2339ff14'/><text x='200' y='188' fill='white' font-family='Arial' font-size='14' text-anchor='middle'>VOLT X1</text></svg>">
+        <p>A spacious family SUV with long range and all-wheel drive.</p>
+        <ul>
+          <li>Driving range: 540 km</li>
+          <li>Battery capacity: 95 kWh</li>
+          <li>Maximum power: 380 kW</li>
+          <li>Charging time (10-80%): 22 minutes</li>
+        </ul>
+        <p><a href="#specifications">See full specifications of the VOLT X1</a></p>
+      </article>
+
+      <article>
+        <h3>VOLT S1 - Electric Sedan</h3>
+        <img alt="Side view of the VOLT S1 electric sedan" width="400" height="200"
+             src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'><rect width='400' height='200' fill='%230a1224'/><path d='M18 130L30 108Q40 98 80 94L140 68Q190 52 240 62L300 86Q356 94 376 118L382 134Q382 142 372 142H28Q16 142 18 130Z' fill='%232b3a5c' stroke='%2339ff14' stroke-width='2'/><path d='M92 92L142 74Q190 62 236 70L288 90L296 100H88Z' fill='%237fffd4' fill-opacity='.45'/><circle cx='100' cy='142' r='28' fill='%2305070d'/><circle cx='100' cy='142' r='14' fill='%2339ff14'/><circle cx='302' cy='142' r='28' fill='%2305070d'/><circle cx='302' cy='142' r='14' fill='%2339ff14'/><text x='200' y='188' fill='white' font-family='Arial' font-size='14' text-anchor='middle'>VOLT S1</text></svg>">
+        <p>An elegant sedan with the longest range in our lineup.</p>
+        <ul>
+          <li>Driving range: 620 km</li>
+          <li>Battery capacity: 100 kWh</li>
+          <li>Maximum power: 320 kW</li>
+          <li>Charging time (10-80%): 20 minutes</li>
+        </ul>
+        <p><a href="#specifications">See full specifications of the VOLT S1</a></p>
+      </article>
+
+      <article>
+        <h3>VOLT R1 - Electric Performance Vehicle</h3>
+        <img alt="Side view of the VOLT R1 electric performance car" width="400" height="200"
+             src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'><rect width='400' height='200' fill='%230a1224'/><path d='M14 134L40 116Q70 108 120 100L190 72Q232 64 266 78L330 104Q372 112 384 130L386 140Q386 146 376 146H24Q12 146 14 134Z' fill='%232b3a5c' stroke='%2339ff14' stroke-width='2'/><path d='M130 100L192 78Q226 72 256 84L306 104H130Z' fill='%237fffd4' fill-opacity='.45'/><circle cx='104' cy='146' r='27' fill='%2305070d'/><circle cx='104' cy='146' r='14' fill='%2339ff14'/><circle cx='306' cy='146' r='27' fill='%2305070d'/><circle cx='306' cy='146' r='14' fill='%2339ff14'/><text x='200' y='190' fill='white' font-family='Arial' font-size='14' text-anchor='middle'>VOLT R1</text></svg>">
+        <p>A low, fast performance car built for thrilling drives.</p>
+        <ul>
+          <li>Driving range: 480 km</li>
+          <li>Battery capacity: 90 kWh</li>
+          <li>Maximum power: 570 kW</li>
+          <li>Charging time (10-80%): 18 minutes</li>
+        </ul>
+        <p><a href="#specifications">See full specifications of the VOLT R1</a></p>
+      </article>
+    </section>
+
+    <hr>
+
+    <!-- BATTERY -->
+    <section id="battery">
+      <h2>Battery Technology</h2>
+      <p>
+        Every VOLT vehicle uses the SolidCore battery pack, designed to store
+        more energy, stay safe and last for many years.
+      </p>
+
+      <img alt="Illustration of the VOLT SolidCore battery pack" width="400" height="200"
+           src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'><rect width='400' height='200' fill='%230a1224'/><rect x='50' y='50' width='280' height='100' rx='16' fill='%230e1830' stroke='%2339ff14' stroke-width='3'/><rect x='330' y='85' width='20' height='30' rx='5' fill='%2339ff14'/><rect x='66' y='66' width='50' height='68' rx='6' fill='%2339ff14'/><rect x='126' y='66' width='50' height='68' rx='6' fill='%2339ff14'/><rect x='186' y='66' width='50' height='68' rx='6' fill='%2339ff14' fill-opacity='.7'/><rect x='246' y='66' width='50' height='68' rx='6' fill='%2339ff14' fill-opacity='.4'/><text x='200' y='182' fill='white' font-family='Arial' font-size='14' text-anchor='middle'>SolidCore Battery Pack</text></svg>">
+
+      <article>
+        <h3>Battery Efficiency</h3>
+        <p>Low-loss inverters deliver up to 6.2 km of driving per kWh.</p>
+      </article>
+      <article>
+        <h3>Safety</h3>
+        <p>Liquid-cooled cells with fire-resistant barriers protect the pack.</p>
+      </article>
+      <article>
+        <h3>Durability</h3>
+        <p>An 8-year battery warranty and more than 1,500 full charge cycles.</p>
+      </article>
+      <article>
+        <h3>Intelligent Energy Management</h3>
+        <p>Software balances every cell and predicts range in real time.</p>
+      </article>
+    </section>
+
+    <hr>
+
+    <!-- CHARGING -->
+    <section id="charging">
+      <h2>Charging Technology</h2>
+      <img alt="A VOLT fast charging station" width="400" height="200"
+           src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'><rect width='400' height='200' fill='%230a1224'/><rect x='150' y='24' width='80' height='140' rx='12' fill='%230e1830' stroke='%2339ff14' stroke-width='3'/><rect x='164' y='40' width='52' height='34' rx='5' fill='%2339ff14' fill-opacity='.85'/><path d='M192 84L172 118H188L182 146L212 108H196Z' fill='%2339ff14'/><path d='M230 94H262Q276 94 276 110V134' fill='none' stroke='%2339ff14' stroke-width='6' stroke-linecap='round'/><rect x='266' y='132' width='20' height='26' rx='4' fill='%2339ff14'/><text x='200' y='188' fill='white' font-family='Arial' font-size='14' text-anchor='middle'>VOLT Fast Charger</text></svg>">
+
+      <h3>Charging options</h3>
+      <ol>
+        <li><strong>Fast charging:</strong> up to 250 kW, adds about 300 km of range in 15 minutes.</li>
+        <li><strong>Home charging:</strong> a 7.4 kW wall box, full charge in about 9 hours.</li>
+        <li><strong>Public charging stations:</strong> more than 2,500 VOLT Network stations.</li>
+        <li><strong>Smart charging:</strong> schedule and monitor charging from the VOLT mobile app.</li>
+      </ol>
+
+      <h3>Charging summary</h3>
+      <table border="1" cellpadding="8" cellspacing="0">
+        <caption>Charging types at a glance</caption>
+        <thead>
+          <tr>
+            <th scope="col">Charging Type</th>
+            <th scope="col">Power</th>
+            <th scope="col">Typical Time</th>
+            <th scope="col">Best For</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Fast Charging</td><td>Up to 250 kW</td><td>15-22 minutes (10-80%)</td><td>Long trips</td></tr>
+          <tr><td>Home Charging</td><td>7.4 kW</td><td>About 9 hours</td><td>Overnight</td></tr>
+          <tr><td>Public Station</td><td>22-150 kW</td><td>30-60 minutes</td><td>City use</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <hr>
+
+    <!-- SPECIFICATIONS -->
+    <section id="specifications">
+      <h2>Vehicle Specifications</h2>
+      <p>Compare all three VOLT models side by side.</p>
+
+      <table border="1" cellpadding="8" cellspacing="0">
+        <caption>Specification comparison of VOLT X1, S1 and R1</caption>
+        <thead>
+          <tr>
+            <th scope="col">Specification</th>
+            <th scope="col">VOLT X1</th>
+            <th scope="col">VOLT S1</th>
+            <th scope="col">VOLT R1</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><th scope="row">Vehicle Type</th><td>Electric SUV</td><td>Electric Sedan</td><td>Performance</td></tr>
+          <tr><th scope="row">Battery Capacity</th><td>95 kWh</td><td>100 kWh</td><td>90 kWh</td></tr>
+          <tr><th scope="row">Driving Range</th><td>540 km</td><td>620 km</td><td>480 km</td></tr>
+          <tr><th scope="row">Maximum Power</th><td>380 kW</td><td>320 kW</td><td>570 kW</td></tr>
+          <tr><th scope="row">Charging Time (10-80%)</th><td>22 min</td><td>20 min</td><td>18 min</td></tr>
+          <tr><th scope="row">Top Speed</th><td>210 km/h</td><td>225 km/h</td><td>280 km/h</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <hr>
+
+    <!-- MULTIMEDIA -->
+    <section id="media">
+      <h2>Multimedia</h2>
+
+      <h3>Promotional Video</h3>
+      <!-- To play a real video, put your file next to index.html and add:
+           <source src="volt-promo.mp4" type="video/mp4"> inside <video> -->
+      <video controls width="640" height="360">
+        Your browser does not support the video tag.
+      </video>
+      <p><small>Video placeholder: add your own promotional video file here.</small></p>
+
+      <h3>Image Gallery</h3>
+      <figure>
+        <img alt="VOLT X1" width="260" height="130"
+             src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'><rect width='400' height='200' fill='%230a1224'/><path d='M22 128L34 94Q46 72 92 66L150 50Q205 40 262 50L322 66Q366 76 376 114L380 134Q380 142 370 142H30Q20 142 22 128Z' fill='%232b3a5c' stroke='%2339ff14' stroke-width='2'/><path d='M96 72L150 56Q205 48 255 56L312 72L322 98H88Z' fill='%237fffd4' fill-opacity='.45'/><circle cx='105' cy='142' r='29' fill='%2305070d'/><circle cx='105' cy='142' r='15' fill='%2339ff14'/><circle cx='300' cy='142' r='29' fill='%2305070d'/><circle cx='300' cy='142' r='15' fill='%2339ff14'/></svg>">
+        <figcaption>VOLT X1 electric SUV</figcaption>
+      </figure>
+      <figure>
+        <img alt="VOLT S1" width="260" height="130"
+             src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'><rect width='400' height='200' fill='%230a1224'/><path d='M18 130L30 108Q40 98 80 94L140 68Q190 52 240 62L300 86Q356 94 376 118L382 134Q382 142 372 142H28Q16 142 18 130Z' fill='%232b3a5c' stroke='%2339ff14' stroke-width='2'/><path d='M92 92L142 74Q190 62 236 70L288 90L296 100H88Z' fill='%237fffd4' fill-opacity='.45'/><circle cx='100' cy='142' r='28' fill='%2305070d'/><circle cx='100' cy='142' r='14' fill='%2339ff14'/><circle cx='302' cy='142' r='28' fill='%2305070d'/><circle cx='302' cy='142' r='14' fill='%2339ff14'/></svg>">
+        <figcaption>VOLT S1 electric sedan</figcaption>
+      </figure>
+      <figure>
+        <img alt="VOLT R1" width="260" height="130"
+             src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 200'><rect width='400' height='200' fill='%230a1224'/><path d='M14 134L40 116Q70 108 120 100L190 72Q232 64 266 78L330 104Q372 112 384 130L386 140Q386 146 376 146H24Q12 146 14 134Z' fill='%232b3a5c' stroke='%2339ff14' stroke-width='2'/><path d='M130 100L192 78Q226 72 256 84L306 104H130Z' fill='%237fffd4' fill-opacity='.45'/><circle cx='104' cy='146' r='27' fill='%2305070d'/><circle cx='104' cy='146' r='14' fill='%2339ff14'/><circle cx='306' cy='146' r='27' fill='%2305070d'/><circle cx='306' cy='146' r='14' fill='%2339ff14'/></svg>">
+        <figcaption>VOLT R1 performance vehicle</figcaption>
+      </figure>
+    </section>
+
+    <hr>
+
+    <!-- CONTACT -->
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <address>
+        VOLT EV Experience Centre<br>
+        12, Innovation Avenue, Tech Park<br>
+        Coimbatore, Tamil Nadu 641014<br>
+        Phone: +91 98765 43210<br>
+        Email: <a href="mailto:hello@voltev.example">hello@voltev.example</a>
+      </address>
+
+      <h3>Useful links</h3>
+      <ul>
+        <li><a href="https://www.iea.org/reports/global-ev-outlook-2024" target="_blank" rel="noopener">Global EV Outlook (International Energy Agency)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Electric_vehicle" target="_blank" rel="noopener">Electric vehicles on Wikipedia</a></li>
+      </ul>
+    </section>
+
+  </main>
+
+  <hr>
+
+  <!-- FOOTER -->
+  <footer>
+    <p><strong>VOLT EV</strong> - Zero emissions. Infinite possibilities.</p>
+    <nav>
+      <a href="#about">About</a> |
+      <a href="#vehicles">Vehicles</a> |
+      <a href="#battery">Battery</a> |
+      <a href="#charging">Charging</a> |
+      <a href="#specifications">Specifications</a> |
+      <a href="#contact">Contact</a>
+    </nav>
+    <p><small>&copy; 2026 VOLT EV (fictional company). Created for a static HTML practicum.</small></p>
+    <p><a href="#top">Back to top</a></p>
+  </footer>
+
+</body>
+</html>
